@@ -10,6 +10,7 @@ The program should also allow users to update the price of an existing item. Whe
 **Sample Output**
 
 === Inventory Menu ===
+
 1. Add Item
 2. Update Price
 3. View Inventory
@@ -17,11 +18,13 @@ The program should also allow users to update the price of an existing item. Whe
 Enter your choice: 1
 
 --- Add Item ---
+
 Enter item name: Gaming Chair
 Enter price: 599
 Item added successfully!
 
 === Inventory Menu ===
+
 1. Add Item
 2. Update Price
 3. View Inventory
@@ -29,9 +32,11 @@ Item added successfully!
 Enter your choice: 3
 
 --- Inventory ---
+
 Gaming chair : ₱599.0
 
 === Inventory Menu ===
+
 1. Add Item
 2. Update Price
 3. View Inventory
@@ -39,11 +44,13 @@ Gaming chair : ₱599.0
 Enter your choice: 2
 
 --- Update Item Price ---
+
 Enter item name: Gaming Chair
 Enter new price: 899
 Price updated successfully!
 
 === Inventory Menu ===
+
 1. Add Item
 2. Update Price
 3. View Inventory
@@ -51,9 +58,11 @@ Price updated successfully!
 Enter your choice: 3
 
 --- Inventory ---
+
 Gaming chair : ₱899.0
 
 === Inventory Menu ===
+
 1. Add Item
 2. Update Price
 3. View Inventory
