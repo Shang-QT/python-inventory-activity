@@ -1,6 +1,6 @@
 # python-inventory-activity
 
-**Python Inventory System**
+**Activity 1 - Python Inventory System**
 
 **Problem Description**
 
