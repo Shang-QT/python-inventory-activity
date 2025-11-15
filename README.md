@@ -20,7 +20,9 @@ Enter your choice: 1
 --- Add Item ---
 
 Enter item name: Gaming Chair
+
 Enter price: 599
+
 Item added successfully!
 
 === Inventory Menu ===
@@ -46,7 +48,9 @@ Enter your choice: 2
 --- Update Item Price ---
 
 Enter item name: Gaming Chair
+
 Enter new price: 899
+
 Price updated successfully!
 
 === Inventory Menu ===
